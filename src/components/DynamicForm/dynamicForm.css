@@ -1,0 +1,51 @@
+.removeButton {
+    width: 20%;
+    float: left;
+    color: black !important;
+    background-color: white !important;
+    border: white !important;
+}
+
+.cardClass {
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.jsonClass {
+    border: 1px solid gray;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+.inputContainer {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.inputField {
+    width: 80%;
+    float: left;
+}
+
+.submit-btn,
+.add-component-btn {
+    margin-top: 20px;
+}
+.radio-options{
+    float: left;
+    width: 60%;
+}
+.radio-label{
+    width: 40%;
+    float: left;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -5px;;
+}
+.radio-options  label{
+    margin-left: 10px;
+}
